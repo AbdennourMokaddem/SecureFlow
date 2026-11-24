@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+.env
+*.pem
+*.tfstate
+*.tfstate.*
+.terraform/
+*.sqlite
+*.db
+node_modules/
